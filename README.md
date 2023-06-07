@@ -1,4 +1,4 @@
-# 🎧 🎶 Audiophile-Hydrogen-Shopify E-Commerce Store 🛍️ 🛒
+# 🎧 Audiophile-Hydrogen-Shopify E-Commerce Store 🛍️
 
 <img width="50%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YQqLj737--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7pgezwcqnp214yjumecs.png" />
   
