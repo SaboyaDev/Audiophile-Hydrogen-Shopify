@@ -1,13 +1,11 @@
-<h1 align="center">🎧 🎶 Audiophile-Hydrogen-Shopify E-Commerce Store 🛍️ 🛒</h1>
+# 🎧 🎶 Audiophile-Hydrogen-Shopify E-Commerce Store 🛍️ 🛒
 
-<p align="center">
-  <img width="35%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YQqLj737--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7pgezwcqnp214yjumecs.png" />
-</p>
+<img width="50%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YQqLj737--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7pgezwcqnp214yjumecs.png" />
   
-<p align="center">
-  <img width="30%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/c3409d72-74dc-418d-a523-fe3218015161" />
-  <img width="30%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/128cd362-67b7-49ba-bb38-46061549ce6c" />
-  <img width="30%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/fa5612dc-13b6-4d2b-9cda-765b6d80db14" />
+<p >
+  <img width="45%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/c3409d72-74dc-418d-a523-fe3218015161" />
+  <img width="45%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/128cd362-67b7-49ba-bb38-46061549ce6c" />
+  <img width="45%" src="https://github.com/SaboyaDev/Audiophile-Hydrogen-Shopify/assets/16430662/fa5612dc-13b6-4d2b-9cda-765b6d80db14" />
 </p>
 
 ## Custom Storefront with Hydrogen
